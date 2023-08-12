@@ -2,6 +2,7 @@
 <h1>Am simon kamau waweru</h1>
 <h2>Am a full stack software engineer</h2>
 <h4>Reach out to me on : simonkamau690@gmail.com</h4>
+<h4>personal blogs: kamauwaweru.blogspot.com</h4>
 <!--
 
 **Here are some ideas to get you started:**
