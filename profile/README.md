@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+<h1>Am simon kamau waweru</h1>
+<h2>Am a full stack software engineer</h2>
 <!--
 
 **Here are some ideas to get you started:**
